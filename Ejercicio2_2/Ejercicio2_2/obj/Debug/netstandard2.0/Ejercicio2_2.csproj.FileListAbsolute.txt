@@ -1,0 +1,17 @@
+C:\Users\Dell\Desktop\Ejercicio2_2\Ejercicio2_2\Ejercicio2_2\bin\Debug\netstandard2.0\Ejercicio2_2.deps.json
+C:\Users\Dell\Desktop\Ejercicio2_2\Ejercicio2_2\Ejercicio2_2\bin\Debug\netstandard2.0\Ejercicio2_2.dll
+C:\Users\Dell\Desktop\Ejercicio2_2\Ejercicio2_2\Ejercicio2_2\bin\Debug\netstandard2.0\ref\Ejercicio2_2.dll
+C:\Users\Dell\Desktop\Ejercicio2_2\Ejercicio2_2\Ejercicio2_2\bin\Debug\netstandard2.0\Ejercicio2_2.pdb
+C:\Users\Dell\Desktop\Ejercicio2_2\Ejercicio2_2\Ejercicio2_2\obj\Debug\netstandard2.0\Ejercicio2_2.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Ejercicio2_2\Ejercicio2_2\Ejercicio2_2\obj\Debug\netstandard2.0\Ejercicio2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Ejercicio2_2\Ejercicio2_2\Ejercicio2_2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dell\Desktop\Ejercicio2_2\Ejercicio2_2\Ejercicio2_2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dell\Desktop\Ejercicio2_2\Ejercicio2_2\Ejercicio2_2\obj\Debug\netstandard2.0\ver.xaml.g.cs
+C:\Users\Dell\Desktop\Ejercicio2_2\Ejercicio2_2\Ejercicio2_2\obj\Debug\netstandard2.0\vistas.xaml.g.cs
+C:\Users\Dell\Desktop\Ejercicio2_2\Ejercicio2_2\Ejercicio2_2\obj\Debug\netstandard2.0\Ejercicio2_2.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Ejercicio2_2\Ejercicio2_2\Ejercicio2_2\obj\Debug\netstandard2.0\Ejercicio2_2.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Ejercicio2_2\Ejercicio2_2\Ejercicio2_2\obj\Debug\netstandard2.0\Ejercicio2_2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Ejercicio2_2\Ejercicio2_2\Ejercicio2_2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dell\Desktop\Ejercicio2_2\Ejercicio2_2\Ejercicio2_2\obj\Debug\netstandard2.0\Ejercicio2_2.dll
+C:\Users\Dell\Desktop\Ejercicio2_2\Ejercicio2_2\Ejercicio2_2\obj\Debug\netstandard2.0\ref\Ejercicio2_2.dll
+C:\Users\Dell\Desktop\Ejercicio2_2\Ejercicio2_2\Ejercicio2_2\obj\Debug\netstandard2.0\Ejercicio2_2.pdb
